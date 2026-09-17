@@ -1,4 +1,4 @@
-# ⌁ Binary Mind
+# ⌁.....
 
 <div align="right">
 
