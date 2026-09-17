@@ -9,7 +9,7 @@
 **A backend developer who debugs by day and dreams in algorithms by night.
 CSE Student || Competitive Programmer || AI Enthusiast from India 🇮🇳**
 
-Email Me 👉 ✉️ binarymind24@gmail.com For Collaboration/Project or Anything Else. 😊
+Email Me 👉 ✉️ snehalthombare888@gmail.com For Collaboration/Project or Anything Else. 😊
 
 - 🔭 *I'm currently working on:* AI Code Reviewer & AI Resume Reviewer
 - 🌱 *I'm currently learning:* DSA, Competitive Programming,MERN Stack
