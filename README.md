@@ -16,7 +16,7 @@ Email Me 👉 ✉️ snehalthombare888@gmail.com For Collaboration/Project or An
 - 👯 *I'm looking to collaborate on:* AI Projects & Open Source
 - 🤔 *I'm looking for help with:* Advanced Competitive Programming & Development
 - 💬 *Ask me about:* DSA, Codeforces, CodeChef, AI & Tech
-- 📫 *How to reach me:* binarymind24@gmail.com
+- 📫 *How to reach me:* snehalthombare888@gmail.com
 - ⚡ *Fun fact:* I love solving coding problems and participating in coding contests 😎
 
 ## 🏆 Competitive Profiles
