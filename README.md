@@ -17,7 +17,7 @@ Email Me 👉 ✉️ snehalthombare888@gmail.com For Collaboration/Project or An
 - 💬 *Ask me about:* DSA, Codeforces, CodeChef, AI & Tech
 - 📫 *How to reach me:* snehalthombare888@gmail.com
 - ⚡ *Fun fact:* I love solving coding problems and participating in coding contests 😎
-- my journey: https://snehal-unfiltered.blogspot.com/
+- my journey(blog) : https://snehal-unfiltered.blogspot.com/
 
 ## 🏆 Competitive Profiles
 - LeetCode: https://leetcode.com/u/binarymind-dev/
